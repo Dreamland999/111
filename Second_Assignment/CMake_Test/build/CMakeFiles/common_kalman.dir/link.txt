@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_kalman.a  CMakeFiles/common_kalman.dir/CMake_1/common/kalman/src/empty.cpp.o
+/usr/bin/ranlib libcommon_kalman.a

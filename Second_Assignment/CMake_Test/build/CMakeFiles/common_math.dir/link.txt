@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_math.a  CMakeFiles/common_math.dir/CMake_1/common/math/src/Math.cpp.o
+/usr/bin/ranlib libcommon_math.a

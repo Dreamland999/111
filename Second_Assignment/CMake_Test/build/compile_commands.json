@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/build",
+  "command": "/usr/bin/g++   -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/math/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/kalman/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M2/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A2/include\" -I/usr/local/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/A2.dir/CMake_1/modules/A2/src/A2.cpp.o -c \"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A2/src/A2.cpp\"",
+  "file": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A2/src/A2.cpp"
+},
+{
+  "directory": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/build",
+  "command": "/usr/bin/g++   -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/math/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/kalman/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M2/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A2/include\" -I/usr/local/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/A1.dir/CMake_1/modules/A1/src/A11.cpp.o -c \"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/src/A11.cpp\"",
+  "file": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/src/A11.cpp"
+},
+{
+  "directory": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/build",
+  "command": "/usr/bin/g++   -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/math/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/kalman/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M2/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A2/include\" -I/usr/local/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/A1.dir/CMake_1/modules/A1/src/A12.cpp.o -c \"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/src/A12.cpp\"",
+  "file": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/src/A12.cpp"
+},
+{
+  "directory": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/build",
+  "command": "/usr/bin/g++   -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/math/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/kalman/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M2/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A2/include\" -I/usr/local/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/A1.dir/CMake_1/modules/A1/src/A13.cpp.o -c \"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/src/A13.cpp\"",
+  "file": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/src/A13.cpp"
+},
+{
+  "directory": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/build",
+  "command": "/usr/bin/g++   -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/math/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/kalman/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M2/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A2/include\" -I/usr/local/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/M1.dir/CMake_1/modules/M1/src/M1.cpp.o -c \"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M1/src/M1.cpp\"",
+  "file": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M1/src/M1.cpp"
+},
+{
+  "directory": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/build",
+  "command": "/usr/bin/g++   -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/math/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/kalman/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M2/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A2/include\" -isystem /usr/local/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/test.dir/CMake_1/main.cpp.o -c \"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/main.cpp\"",
+  "file": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/main.cpp"
+},
+{
+  "directory": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/build",
+  "command": "/usr/bin/g++   -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/math/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/kalman/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M2/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A2/include\" -I/usr/local/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/M2.dir/CMake_1/modules/M2/src/M2.cpp.o -c \"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M2/src/M2.cpp\"",
+  "file": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M2/src/M2.cpp"
+},
+{
+  "directory": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/build",
+  "command": "/usr/bin/g++   -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/math/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/kalman/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M2/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A2/include\" -I/usr/local/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/common_kalman.dir/CMake_1/common/kalman/src/empty.cpp.o -c \"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/kalman/src/empty.cpp\"",
+  "file": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/kalman/src/empty.cpp"
+},
+{
+  "directory": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/build",
+  "command": "/usr/bin/g++   -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/math/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/kalman/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/M2/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A1/include\" -I\"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/modules/A2/include\" -I/usr/local/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/common_math.dir/CMake_1/common/math/src/Math.cpp.o -c \"/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/math/src/Math.cpp\"",
+  "file": "/home/cuitailai/桌面/website/111/Second_Assignment/CMake_Test/CMake 1/common/math/src/Math.cpp"
+}
+]
